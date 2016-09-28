@@ -1,0 +1,3 @@
+#  maria Image for Open DevOps Pipeline
+maria:
+  image:  devopsopen/docker-com-maria
